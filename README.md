@@ -70,7 +70,7 @@ Lista todos os usuários ✅
 
 ## 📌 Endpoints
 
-### 👤 Registro de usuário
+### 🆕 Registro de usuário
 
 `POST /api/register`
 
