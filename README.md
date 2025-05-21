@@ -70,7 +70,7 @@ Lista todos os usuários ✅
 
 ## 📌  Endpoints
 
-### ✅ Registro de usuário
+### 🆕  Registro de usuário
 
 `POST /api/register`
 
@@ -268,7 +268,7 @@ Response 200:
 -   Transação já foi revertida
 
 -   Acesso negado à transação de outro usuário
--
+
 
 ### 🧪 Testes
 
