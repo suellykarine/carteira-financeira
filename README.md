@@ -52,7 +52,7 @@ php artisan serve
 
 Esta API utiliza tokens de autenticação do Laravel Sanctum, inclua token de acesso para acessar os endpoints protegidos.
 
-### Funcionalidades:
+### 🧩 Funcionalidades:
 
 Registro de usuário ✅
 
@@ -68,9 +68,9 @@ Lista dados do usuário autenticado com saldo ✅
 
 Lista todos os usuários ✅
 
-## Endpoints
+## 📌 Endpoints
 
-### Registro de usuário
+### 👤 Registro de usuário
 
 `POST /api/register`
 
@@ -92,7 +92,7 @@ Lista todos os usuários ✅
 }
 ```
 
-### Login de usuário
+### 🔐 Login de usuário
 
 `POST /api/login`
 
@@ -268,7 +268,6 @@ Response 200:
 -   Transação já foi revertida
 
 -   Acesso negado à transação de outro usuário
--
 
 ### 🧪 Testes
 
