@@ -68,9 +68,10 @@ Lista dados do usuário autenticado com saldo ✅
 
 Lista todos os usuários ✅
 
-## 📌 Endpoints
+## 📌  Endpoints
 
-### 🆕 Registro de usuário
+### 🆕  Registro de usuário
+
 
 `POST /api/register`
 
