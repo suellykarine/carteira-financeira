@@ -277,3 +277,7 @@ Para rodar os testes automatizados:
 ```
 php artisan test
 ```
+Teste unitários
+```
+php artisan test --filter=(nomeDoTeste)
+```
