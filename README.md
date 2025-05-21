@@ -72,6 +72,7 @@ Lista todos os usuários ✅
 
 ### 🆕  Registro de usuário
 
+
 `POST /api/register`
 
 **Request body:**
@@ -268,7 +269,6 @@ Response 200:
 -   Transação já foi revertida
 
 -   Acesso negado à transação de outro usuário
-
 
 ### 🧪 Testes
 
